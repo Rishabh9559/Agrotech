@@ -7,5 +7,5 @@ In the upload file, some sample images of diease leaves<br>
 3: Model.h5 file <br>
 The model file is a train model. <br>
 
-I will provide a zip file link for all files; you just download the zip file and extract it.<br>
+I will provide a zip file link for all files  https://www.kaggle.com/datasets/rishabh9559/database <br> you just download the zip file and extract it.<br>
 After that, you create a folder and place all files in it, including the github file and three other files.
