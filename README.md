@@ -32,8 +32,7 @@ After that, you create a folder and place all files in it, including the github 
 <br><br><br>
 ![8](https://github.com/Rishabh9559/Agrotech/blob/0d58eb63875ee164a38c6b0f2e4a2376a32734da/readmeImage/AI%20in%20Agri0009.png)
 <br><br><br>
-![9](https://github.com/Rishabh9559/Agrotech/blob/0d58eb63875ee164a38c6b0f2e4a2376a32734da/readmeImage/AI%20in%20Agri00010.png)
-<br><br><br>
-![10](https://github.com/Rishabh9559/Agrotech/blob/0d58eb63875ee164a38c6b0f2e4a2376a32734da/readmeImage/AI%20in%20Agri00011.png)
+![9](https://github.com/Rishabh9559/Agrotech/blob/0d58eb63875ee164a38c6b0f2e4a2376a32734da/readmeImage/AI%20in%20Agri0010.png)
+
 
 
